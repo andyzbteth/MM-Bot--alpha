@@ -46,8 +46,8 @@ Before getting started, ensure you have the following:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/crypto-trading-bots.git
-   cd crypto-trading-bots
+   git clone https://github.com/andyzbteth/MM-Bot--alpha.git
+   cd MM-BOT--ALPHA
    ```
 
 2. **Install Dependencies**
