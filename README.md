@@ -17,7 +17,7 @@
 
 ## Introduction
 
-**Crypto Trading Bots** is a Node.js-based application that automates cryptocurrency trading on the Ethereum blockchain using Uniswap V3. It includes functionalities to buy, sell, and manage trading volume based on predefined parameters.
+**MM Bots** is a Node.js-based application that automates cryptocurrency trading on the Ethereum blockchain using Uniswap V3. It includes functionalities to buy, sell, and manage trading volume based on predefined parameters.
 
 ---
 
