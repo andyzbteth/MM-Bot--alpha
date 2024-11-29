@@ -1,4 +1,4 @@
-# Crypto Trading Bots
+# MM-Bot--alpha
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Node.js](https://img.shields.io/badge/node.js-v14.0.0-green.svg)
 
